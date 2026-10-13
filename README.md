@@ -12,4 +12,3 @@ To install a copy of the toolkit, open a terminal and run:
 ```
 
 **This code is currently in development and not all features will work**
->>>>>>> f9603137ac2819278f6e2ba2cb06e8df9af01427
